@@ -1,7 +1,8 @@
 # statuspage
 This is a page to you create and report incidents on your company
 
-<img width="1768" alt="HomeLetmeask" src="https://user-images.githubusercontent.com/5294488/141380038-f3fd54c2-e705-459b-b061-0d075c94c562.png">
+<img width="1768" alt="HomeLetmeask" src="https://user-images.githubusercontent.com/5294488/150853249-9620c17a-fef7-4b8b-9e90-197d2b07ac75.png">
+
 
 <p align="left"> Hi, I'm Luciano Horta 🖖 </p>
 <p> <img src="https://komarev.com/ghpvc/?username=auadmendes&color=yellow" alt="Profile Views" /> </p>
@@ -24,3 +25,7 @@ This is a page to you create and report incidents on your company
 > npm start
 
 - You can find the [Figma project](https://www.figma.com/file/HMuxAdsylzTS1bA1xOboFO/Letmeask-(Copy)?node-id=0%3A1) here.
+
+
+<img width="1768" alt="HomeLetmeask" src="https://user-images.githubusercontent.com/5294488/150853407-6d652f07-4553-4a38-be72-4422c3fa0be7.png">
+
